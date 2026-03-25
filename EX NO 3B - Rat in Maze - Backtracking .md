@@ -111,7 +111,8 @@ class Solution {
 ```
 ## Output:
 
-![Uploading image.png…]()
+<img width="409" height="541" alt="image" src="https://github.com/user-attachments/assets/f2587d00-93dd-4b2c-b6b6-6bac5410b823" />
+
 
 
 ## Result:
